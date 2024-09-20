@@ -1,4 +1,4 @@
-print("I use arch btw")
+print("I ate a bug I will eat another")
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
